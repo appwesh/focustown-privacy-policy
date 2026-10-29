@@ -7,7 +7,7 @@ This Privacy Policy describes our policies and procedures on the collection, use
 We use your personal data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the Privacy Policy Generator.
 
 ### Support
-Contact: team@focustown.app
+Contact: support@focustown.app
 
 
 ### Interpretation and Definitions
@@ -100,11 +100,11 @@ The Company may disclose your Personal Data in the good faith belief that such a
 - Comply with a legal obligation
 - Protect and defend the rights or property of the Company
 
-Contact: team@focustown.app
+Contact: support@focustown.app
 - Prevent or investigate possible
 
 ### To Delete Your Account 
 - In order to delete your account
-- Email team@focustown.app with the subject line: "delete account". In the body of your email, make sure to send us the email you signed up with.
+- Email support@focustown.app with the subject line: "delete account". In the body of your email, make sure to send us the email you signed up with.
 - Logout of the app
 - Your account will then be deleted within 24 hours by our team
